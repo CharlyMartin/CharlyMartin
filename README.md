@@ -4,6 +4,6 @@ I live in sunny Lisbon ☀️ where I design and build apps. I've been working a
 
 🛠️ Current favourite stack: TypeScript + Next.js + Tailwind CSS
 
-⭐ Interests: I would love to work with companies protecting nature and biodiversity. I'm also passionate about music and would enjoy working with companies in this space.
+⭐ Interests: I would love to work with companies protecting nature and biodiversity. I'm also passionate about music and would really enjoy working with artists in this space.
 
 You can read more about me and what I do at [charlymartin.me](https://charlymartin.me?utm_source=github-profile). See you there!
