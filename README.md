@@ -6,7 +6,7 @@ I live in sunny Lisbon ☀️ where I design and build apps. I've been working r
 
 ⚡ Looking to work with companies having a strong mission, team culture, and unique work environment
 
-🤗 Music and the outdoors are big passions of mine!
+🧡 Music and the outdoors are big passions of mine!
 
 <!-- 🌳 Today, my main focus is to work with companies aiming to protect or regenerate ecosystems on our beautiful planet. -->
 
